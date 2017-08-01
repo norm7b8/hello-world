@@ -1,2 +1,3 @@
 # hello-world
-Hello World repository for Guide
+
+Hi World, Norman here. Just a novice programmer trying to learn how to code. I love Tacos!!!
